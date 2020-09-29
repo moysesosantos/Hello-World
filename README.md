@@ -1,4 +1,6 @@
 # Hello World
  The first directory of course Git and Github
 
-Repository create during lesson online
+Repository create during class online
+
+Update again
